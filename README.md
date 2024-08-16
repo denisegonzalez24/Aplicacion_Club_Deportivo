@@ -5,7 +5,7 @@
 ¡Bienvenidos al Club Deportivo! 🎉 Esta aplicación está diseñada para ayudar a administrar la información de nuestros pequeños y pequeñas deportistas que practican deportes como básquet, vóley, fútbol, patín, y mucho más. En cuantoo a la gestion ¡este sistema te ayudará a mantener todo en orden de manera fácil y eficiente! 🚀
 
 <details>
-## 📋 Descripción del Proyecto
+**📋 Descripción del Proyecto**
 
 Este proyecto te permitirá llevar un control completo de los niños y niñas que participan en los diferentes deportes del club, así como también de los entrenadores y las cuotas de pago. La aplicación ofrece un menú interactivo con diversas funcionalidades que van desde la inscripción de nuevos deportistas hasta la gestión de los entrenadores y las cuotas.
 
@@ -28,7 +28,7 @@ Este proyecto está desarrollado en **C#**, utilizando un enfoque orientado a ob
 
 <details>
 <summary>📑  UML del Proyecto </summary>
-<p align=center><img src=images/unnamed.jpg width="400"><p> 
+<p align=center><img src=images/unnamed.jpg width="600"><p> 
 
 </details>
 
