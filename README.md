@@ -30,6 +30,7 @@ Este proyecto está desarrollado en **C#**, utilizando un enfoque orientado a ob
 1. **Clona este repositorio** en tu máquina local:
    ```bash
    git clone https://github.com/denisegonzalez24/Aplicacion_Club_Deportivo.git
+</details>
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio importante.
