@@ -1,6 +1,6 @@
 # 🏆 Club Deportivo - Gestión de Inscriptos y Entrenadores ⚽🏀
 
-<p align=center><img src=images/deportet.png width="400"><p>    
+<p align=center><img src=images/deporte.jpg width="400"><p>    
 
 ¡Bienvenidos al Club Deportivo! 🎉 Esta aplicación está diseñada para ayudar a administrar la información de nuestros pequeños y pequeñas deportistas que practican deportes como básquet, vóley, fútbol, patín, y mucho más. En cuantoo a la gestion ¡este sistema te ayudará a mantener todo en orden de manera fácil y eficiente! 🚀
 
