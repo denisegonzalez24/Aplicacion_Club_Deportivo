@@ -28,7 +28,7 @@ Este proyecto está desarrollado en **C#**, utilizando un enfoque orientado a ob
 
 <details>
 <summary>📑  UML del Proyecto </summary>
-<p align=center><img src=images/unnamed.jpg width="600"><p> 
+<p align=center><img src=images/unnamed.jpg width="800"><p> 
 
 </details>
 
