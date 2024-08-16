@@ -18,14 +18,14 @@ Este proyecto te permitirá llevar un control completo de los niños y niñas qu
 </details>
 
 <details>
-<summary> ## 🛠️ Tecnologías Utilizadas</summary>
+<summary>  🛠️ Tecnologías Utilizadas</summary>
 
 Este proyecto está desarrollado en **C#**, utilizando un enfoque orientado a objetos para crear clases que representan a las personas, entrenadores, y deportes. La herencia y las excepciones se usan para manejar eficientemente las operaciones, asegurando que la aplicación sea robusta y flexible.
 
 </details>
 
 <details>
-<summary>## 🚀 Cómo Empezar</summary>
+<summary> 🚀 Cómo Empezar</summary>
 
 1. **Clona este repositorio** en tu máquina local:
    ```bash
